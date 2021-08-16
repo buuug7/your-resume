@@ -150,8 +150,8 @@ others:
     url: https://github.com/buuug7/english-vocabulary-book
     description: 一个 Chrome 扩展，可以将不熟悉的英语单词收集到我的生词本中，收集的单词以后可以用来复习和记忆.
   - id: 4
-    name: 中文常用字
-    url: https://github.com/buuug7/common-chinese-character
+    name: 中文常用字, 词频表
+    url: https://buuug7.github.io/common-chinese-character/
     description: 收录汉语中最常用的汉字以及词语频率表
   - id: 5
     name: Utilities CSS
@@ -161,3 +161,11 @@ others:
     name: Simplify css components
     url: https://github.com/buuug7/simplify
     description: 一个简单, 有态度(固执己见)的 CSS 组件库.
+  - id: 7
+    name: uniApp 图片裁剪插件
+    url: https://ext.dcloud.net.cn/plugin?id=5907
+    description: uniApp图片裁剪插件. 该插件基于 Cropper.js, 感谢 cropper.js 优秀又强大的功能, 让裁剪图片变得容易, 本人使用 webview 的方式集成 cropper.js 跟 uniApp 进行数据交互, 可以满足图片裁剪的基本需求.
+  - id: 8
+    name: uniApp 简单的日期时间选择器
+    url: https://ext.dcloud.net.cn/plugin?id=592
+    description: uniApp 日期时间选择器, 可选择年, 月, 日, 时, 分.
