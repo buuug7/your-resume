@@ -11,7 +11,7 @@
       <ul class="header__personal-info">
         <li>{{ basicInfo.name[lang] }}</li>
         <li>{{ basicInfo['sex'][lang] }}</li>
-        <!-- <li>{{ basicInfo.born }}</li> -->
+         <li>{{ basicInfo.born }}</li>
         <li>{{ basicInfo.education[lang] }}</li>
         <li>{{ basicInfo.location[lang] }}</li>
         <li>{{ basicInfo.workExperience[lang] }}</li>

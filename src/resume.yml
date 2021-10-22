@@ -140,11 +140,11 @@ others:
   - id: 1
     name: GBK to UTF8 for vscode [vscode extensions]
     url: https://github.com/buuug7/gbk2utf8-vscode
-    description: 一个用来把 GBK 相关编码文件转换为 UTF8 的 vscode 插件。
+    description: 用来把 GBK 相关编码文件转换为 UTF8 的 vscode 插件。
   - id: 2
     name: 中文标点符号替换为英文 [vscode extensions]
     url: https://github.com/buuug7/chinese-punctuation-to-english
-    description: 一个将中文标点符号替换为英文的 vscode 扩展
+    description: 将中文标点符号替换为英文的 vscode 扩展
   - id: 3
     name: 英语生词本 (English Vocabulary Book) [chrome extensions]
     url: https://github.com/buuug7/english-vocabulary-book
