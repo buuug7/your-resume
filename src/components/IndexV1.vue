@@ -52,7 +52,7 @@ import Footer from './Footer';
 import myResume from '../resume.yml';
 
 export default {
-  name: 'ResumeIndex',
+  name: 'ResumeIndexV1',
   data() {
     return {
       resume: {

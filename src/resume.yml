@@ -10,7 +10,7 @@ basicInfo:
     cn: 本科
     en: Bachelor of Engineering
   workExperience:
-    cn: 5年经验
+    cn: 6年经验
     en: 5 years experience
   status:
     cn: 离职
@@ -25,7 +25,9 @@ basicInfo:
   socialAccounts:
     - name: github
       url: https://github.com/buuug7
-    - name: stack-overflow
+    - name: 知乎
+      url: https://www.zhihu.com/people/buuug7
+    - name: stackoverflow
       url: https://stackoverflow.com/users/6080636/puguohong
 
 # Self description 自我描述
@@ -36,13 +38,13 @@ selfDescription:
 
 # Skills 技能
 skills:
-  - name: Common= Git/Basic Terminal knowledge/Github
+  - name: Common= Git/Github/Basic Terminal knowledge
     level: 70
   - name: Language= Javascript/HTML/CSS/TypeScript
     level: 70
-  - name: BackendFramework= Express/Koa/Laravel
+  - name: BackendFramework= Express/Koa/Nest/Laravel
     level: 70
-  - name: JavaScriptFramework= Vue/React/Angular
+  - name: JavaScriptFramework= Vue/React/Next.js
     level: 75
   - name: CssFramework= Bootstrap/Material-ui/Bulma/ant-design
     level: 70
@@ -51,9 +53,9 @@ skills:
 
 # Job intention 求职意向
 jobIntention:
-  position: web前端
+  position: web 前端
   location: 西安
-  salary: 12k - 18k
+  salary: 10K - 20K
   jobTime: 全职
 
 #educationExperiences 教育经历
@@ -75,7 +77,7 @@ workExperiences:
   - id: 2
     time: 2018.7 - 现在
     companyName: 西安图迹
-    workPosition: web frontend
+    workPosition: web 前端
     workContents:
       - id: 0
         text: 从事公司web项目前端开发
@@ -84,7 +86,7 @@ workExperiences:
   - id: 1
     time: 2015.7 - 2017.9
     companyName: 甘肃天奇
-    workPosition: web fullstack
+    workPosition: 全栈
     workContents:
       - id: 0
         text: 维护公司web项目, 移动应用项目，参与公司web项目前后端的设计、开发以及部署
@@ -103,19 +105,19 @@ projectExperiences:
   - id: 6
     name: 中国华电竞争报价（电力现货）系统
     url: none
-    position: web frontend
+    position: web 前端
     description: 提供电力批发市场全流程信息化支撑,为电厂和售电公司在市场售购电交易业务提供辅助决策
-    frameworks: vue, react（两套实现，一套是基于react，一套基于vue）
+    frameworks: vue, react
   - id: 5
     name: 南方电网工程服务系统
     url: none
-    position: web frontend
+    position: web 前端
     description: 南方电网工程服务应用，管理南方电网供应商的一个系统
     frameworks: ionic, angular
   - id: 4
     name: 华润电力移动EAM
     url: none
-    position: web frontend
+    position: web 前端
     description: 华润电力移动资产管理系统，管理发电厂资产的一个移动应用
     frameworks: 移动混合应用H5, uniApp, vue
   - id: 3
