@@ -75,7 +75,7 @@ educationExperiences:
 # Work experiences 工作经历
 workExperiences:
   - id: 2
-    time: 2018.7 - 现在
+    time: 2018.8 - 现在
     companyName: 西安图迹
     workPosition: web 前端
     workContents:
@@ -84,7 +84,7 @@ workExperiences:
       - id: 1
         text: 从事公司移动应用开发
   - id: 1
-    time: 2015.7 - 2017.9
+    time: 2015.7 - 2018.7
     companyName: 甘肃天奇
     workPosition: 全栈
     workContents:
