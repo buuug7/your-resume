@@ -169,3 +169,7 @@ others:
     name: uniApp 简单的日期时间选择器
     url: https://ext.dcloud.net.cn/plugin?id=592
     description: uniApp 日期时间选择器, 可选择年, 月, 日, 时, 分.
+  - id: 9
+    name: 开源奇迹网站
+    url: https://github.com/buuug7/mu-online-web
+    description: 一个容易使用的奇迹私服网站.
