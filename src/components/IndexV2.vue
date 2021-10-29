@@ -78,7 +78,7 @@
         </li>
       </ul>
 
-      <h4>工作经历</h4>
+      <h4>项目经历</h4>
       <ul>
         <li
           v-for="projectExperience in resume.projectExperiences"
