@@ -84,7 +84,7 @@ workExperiences:
   - id: 1
     time: 2015.7 - 2018.7
     companyName: 甘肃天奇
-    workPosition: 全栈
+    workPosition: web开发
     workContents:
       - id: 0
         text: 维护公司web项目, 移动应用项目，参与公司web项目前后端的设计、开发以及部署
@@ -121,19 +121,19 @@ projectExperiences:
   - id: 3
     name: 渭源县电子商务公共服务中心
     url: http://ds8.com.cn/
-    position: web fullstack
+    position: web 开发
     description: 渭源县商务局，渭源县电子商务公共服务中心。
     frameworks: laravel, jQuery
   - id: 2
     name: 定西人大官网
     url: http://dxrdw.gov.cn/
-    position: web fullstack
+    position: web 开发
     description: 定西市人大官方官网
     frameworks: laravel, jQuery
   - id: 1
     name: 定西社会组织
     url: http://dxsh.gov.cn/
-    position: web fullstack
+    position: web 开发
     description: 定西市民间组织管理局官方网站
     frameworks: laravel, jQuery
 others:
@@ -169,7 +169,3 @@ others:
     name: uniApp 简单的日期时间选择器
     url: https://ext.dcloud.net.cn/plugin?id=592
     description: uniApp 日期时间选择器, 可选择年, 月, 日, 时, 分.
-  - id: 9
-    name: 开源奇迹网站
-    url: https://github.com/buuug7/mu-online-web
-    description: 一个容易使用的奇迹私服网站.
