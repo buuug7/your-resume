@@ -10,7 +10,7 @@ basicInfo:
     cn: 本科
     en: Bachelor of Engineering
   workExperience:
-    cn: 6年经验
+    cn: 8 年经验
     en: 5 years experience
   status:
     cn: 离职
@@ -31,29 +31,29 @@ basicInfo:
 # Self description 自我描述
 selfDescription:
   description:
-    cn: 本人工作服从纪律，有责任心。热爱互联网，喜欢编程，对新事物新技术充满好奇。最近几年从事web开发，熟悉常用的 web 开发框架。
+    cn: 本人工作认真负责任, 热爱网络, 喜欢编程, 对新技术充满好奇. 最近几年从事web开发, 熟悉常用的 web 开发框架。
     en: I work under discipline and have a sense of responsibility. Love the Internet, like programming, curious about new things and new technologies. In recent years engaged in web development, familiar with the commonly used web development framework。
 
 # Skills 技能
 skills:
-  - name: Common= Git/Github/Basic Terminal knowledge
+  - name: 通用= Git/命令行
     level: 70
-  - name: Language= Javascript/HTML/CSS/TypeScript
+  - name: 语言= Javascript/CSS/TypeScript
     level: 70
-  - name: BackendFramework= Express/Koa/Nest/Laravel
+  - name: 前端框架= Vue/React/Next.js
     level: 70
-  - name: JavaScriptFramework= Vue/React/Next.js
+  - name: 后端框架= Express/Koa/Nest
     level: 75
-  - name: CssFramework= Bootstrap/Material-ui/Bulma/ant-design
+  - name: CSS框架= Bootstrap/ant-design/Material-ui/Bulma
     level: 70
-  - name: Database= Mysql
+  - name: 数据库= Mysql
     level: 65
 
 # Job intention 求职意向
 jobIntention:
   position: web 前端
   location: 西安
-  salary: 10K - 20K
+  salary: 10K+
   jobTime: 全职
 
 #educationExperiences 教育经历
@@ -72,8 +72,17 @@ educationExperiences:
 
 # Work experiences 工作经历
 workExperiences:
+  - id: 3
+    time: 2021.11 - 现在
+    companyName: 慧点科技
+    workPosition: web 前端
+    workContents:
+      - id: 0
+        text: 从事公司OA相关项目前端开发
+      - id: 1
+        text: 从事公司移动相关应用开发
   - id: 2
-    time: 2018.8 - 现在
+    time: 2018.8 - 2021.10
     companyName: 西安图迹
     workPosition: web 前端
     workContents:
@@ -87,19 +96,18 @@ workExperiences:
     workPosition: web开发
     workContents:
       - id: 0
-        text: 维护公司web项目, 移动应用项目，参与公司web项目前后端的设计、开发以及部署
+        text: 维护公司web项目, 移动应用项目, 参与公司web项目前后端的设计、开发以及部署
       - id: 2
-        text: 与美工、后端配合，改进产品易用性、界面展示优化和性能优化
-  - id: 0
-    time: 2011.9 - 2015.7
-    companyName: 新疆天业
-    workPosition: 电脑维护
-    workContents:
-      - id: 0
-        text: 维护公司内部的办公网络和电脑
+        text: 与美工、后端配合, 改进产品易用性、界面展示优化和性能优化
 
 # Project experiences 项目经验
 projectExperiences:
+  - id: 7
+    name: 中国华电集团 OA 项目
+    url: none
+    position: web 前端
+    description: 提供了电子公文管理,决策会议管理,统一督办管理等企业办公常用的功能
+    frameworks: vue
   - id: 6
     name: 中国华电竞争报价（电力现货）系统
     url: none
@@ -110,31 +118,25 @@ projectExperiences:
     name: 南方电网工程服务系统
     url: none
     position: web 前端
-    description: 南方电网工程服务应用，管理南方电网供应商的一个系统
+    description: 南方电网工程服务应用, 管理南方电网供应商的一个系统
     frameworks: ionic, angular
   - id: 4
     name: 华润电力移动EAM
     url: none
     position: web 前端
-    description: 华润电力移动资产管理系统，管理发电厂资产的一个移动应用
+    description: 华润电力移动资产管理系统, 管理发电厂资产的一个移动应用
     frameworks: 移动混合应用H5, uniApp, vue
   - id: 3
     name: 渭源县电子商务公共服务中心
-    url: http://ds8.com.cn/
+    url: none
     position: web 开发
-    description: 渭源县商务局，渭源县电子商务公共服务中心。
+    description: 渭源县商务局, 渭源县电子商务公共服务中心。
     frameworks: laravel, jQuery
   - id: 2
     name: 定西人大官网
     url: http://dxrdw.gov.cn/
     position: web 开发
     description: 定西市人大官方官网
-    frameworks: laravel, jQuery
-  - id: 1
-    name: 定西社会组织
-    url: http://dxsh.gov.cn/
-    position: web 开发
-    description: 定西市民间组织管理局官方网站
     frameworks: laravel, jQuery
 others:
   - id: 1
@@ -148,7 +150,7 @@ others:
   - id: 3
     name: 英语生词本 (English Vocabulary Book) [chrome extensions]
     url: https://github.com/buuug7/english-vocabulary-book
-    description: 一个 Chrome 扩展，可以将不熟悉的英语单词收集到我的生词本中，收集的单词以后可以用来复习和记忆.
+    description: 一个 Chrome 扩展, 可以将不熟悉的英语单词收集到我的生词本中, 收集的单词以后可以用来复习和记忆.
   - id: 4
     name: 中文常用字, 词频表
     url: https://buuug7.github.io/common-chinese-character/
