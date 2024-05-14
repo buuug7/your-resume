@@ -1,0 +1,147 @@
+# Personal info 个人信息
+basicInfo:
+  name:
+    cn: 司徒王朗
+    en: SiTu WangLang
+  sex:
+    cn: 男
+    en: Boy
+  education:
+    cn: 本科
+    en: Bachelor of Engineering
+  workExperience:
+    cn: 1 年经验
+    en: 1 years experience
+  status:
+    cn: 离职
+    en: Full time or part time
+  location:
+    cn: 香港
+    en: Hongkong
+  born: 2020
+  contact:
+    phone: 1234567890
+    email: someone@net.com
+  socialAccounts:
+    - name: github
+      url: https://github.com/someone
+    - name: 知乎
+      url: https://www.zhihu.com/people/someone
+
+# Self description 自我描述
+selfDescription:
+  description:
+    cn: 本人工作认真负责任, 热爱网络, 喜欢编程, 对新技术充满好奇, 最近几年从事web开发, 熟悉常用的 web 开发框架。
+    en: I work under discipline and have a sense of responsibility. Love the Internet, like programming, curious about new things and new technologies. In recent years engaged in web development, familiar with the commonly used web development framework。
+
+# Skills 技能
+skills:
+  - name: 通用= Git/命令行
+    level: 70
+  - name: 语言= Javascript/CSS/TypeScript
+    level: 70
+  - name: 前端框架= Vue/React/Next.js
+    level: 70
+  - name: 后端框架= Express/Koa/Nest
+    level: 75
+  - name: CSS框架= Bootstrap/ant-design/Material-ui/Bulma
+    level: 75
+  - name: 数据库= Mysql/PostgreSQL
+    level: 75
+
+# Job intention 求职意向
+jobIntention:
+  position: Web Developer
+  location: Hongkong
+  salary: 100K+
+  jobTime: Fulltime
+
+#educationExperiences 教育经历
+educationExperiences:
+  - id: 0
+    durationTime: 2020.9 - 2021.9
+    educationName:
+      cn: 哈佛大学淡水学院
+      en: Freshwater School of Harvard University
+    educationSubject:
+      cn: 信息科学与技术
+      en: Information Science and Technology
+    educationLevel:
+      cn: 本科
+      en: Bachelor of Engineering
+
+# Work experiences 工作经历
+workExperiences:
+  - id: 2
+    time: 2022.01 - 现在
+    companyName: 工作单位名称 2
+    workPosition: web frontend
+    workContents:
+      - id: 0
+        text: 工作内容1
+      - id: 1
+        text: 工作内容2
+  - id: 1
+    time: 2020.01 - 2022.01
+    companyName: 工作单位名称 1
+    workPosition: web frontend
+    workContents:
+      - id: 0
+        text: 工作内容1
+      - id: 1
+        text: 工作内容2
+
+
+# Project experiences 项目经验
+projectExperiences:
+  - id: 3
+    name: 项目 3
+    url: none
+    position: web frontend
+    description: 项目介绍...
+    frameworks: vue, react
+  - id: 2
+    name: 项目 2
+    url: none
+    position: web frontend
+    description: 项目介绍...
+    frameworks: vue, react
+  - id: 1
+    name: 项目 1
+    url: none
+    position: web frontend
+    description: 项目介绍...
+    frameworks: vue, react
+others:
+  - id: 1
+    name: GBK to UTF8 for vscode [vscode extensions]
+    url: https://github.com/buuug7/gbk2utf8-vscode
+    description: 用来把 GBK 相关编码文件转换为 UTF8 的 vscode 插件。
+  - id: 2
+    name: 中文标点符号替换为英文 [vscode extensions]
+    url: https://github.com/buuug7/chinese-punctuation-to-english
+    description: 将中文标点符号替换为英文的 vscode 扩展
+  - id: 3
+    name: 英语生词本 (English Vocabulary Book) [chrome extensions]
+    url: https://github.com/buuug7/english-vocabulary-book
+    description: 一个 Chrome 扩展, 可以将不熟悉的英语单词收集到我的生词本中, 收集的单词以后可以用来复习和记忆.
+  - id: 4
+    name: 中文常用字, 词频表
+    url: https://buuug7.github.io/common-chinese-character/
+    description: 收录汉语中最常用的汉字以及词语频率表
+  - id: 5
+    name: Utilities CSS
+    url: https://github.com/buuug7/utilities-css
+    description: Simple and easy to use utilities CSS, only focused on wrap the most common used css into class name.
+  - id: 6
+    name: Simplify css components
+    url: https://github.com/buuug7/simplify
+    description: 一个简单, 有态度(固执己见)的 CSS 组件库.
+  - id: 7
+    name: uniApp 图片裁剪插件
+    url: https://ext.dcloud.net.cn/plugin?id=5907
+    description: uniApp图片裁剪插件. 该插件基于 Cropper.js, 感谢 cropper.js 优秀又强大的功能, 让裁剪图片变得容易, 本人使用 webview 的方式集成 cropper.js 跟 uniApp 进行数据交互, 可以满足图片裁剪的基本需求.
+  - id: 8
+    name: uniApp 简单的日期时间选择器
+    url: https://ext.dcloud.net.cn/plugin?id=592
+    description: uniApp 日期时间选择器, 可选择年, 月, 日, 时, 分.

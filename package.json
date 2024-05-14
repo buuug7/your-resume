@@ -1,0 +1,62 @@
+{
+  "name": "your-resume",
+  "version": "1.0.0",
+  "description": "create your resume easily",
+  "author": "buuug7 <youpp@126.com>",
+  "private": false,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "pdf": "node scripts/export-pdf.js"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "sass": "^1.77.1",
+    "utilities-css": "^5.0.0",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.12.1",
+    "@vue/cli-plugin-eslint": "^3.12.1",
+    "@vue/cli-service": "^3.12.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "js-yaml-loader": "^1.2.2",
+    "prettier": "^2.2.1",
+    "puppeteer": "^1.17.0",
+    "sass-loader": "^7.3.1",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "no-console": "warn",
+      "no-unused-vars": "warn"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
